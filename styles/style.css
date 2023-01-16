@@ -165,21 +165,17 @@ header {
 }
 
 .love-enjoy-heading h1 {
+     
     font-weight: 700;
     font-size: 45px;
     line-height: 53px;
     color: #131313;
     margin-bottom: 24px;
 }
-
-.vl{
-    position:absolute;
-    border-left: 5px solid#FF900E; 
-    width: 4.94px;
-    height: 106px;
-    margin-right: 10px;
+.ver-line{
+    border-left: 5px solid#FF900E;
 }
-.love-enjoy-heading p {
+.love-enjoy-heading p { 
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
@@ -226,6 +222,7 @@ header {
 }
 
 .btn h1 {
+   
     font-weight: 700;
     font-size: 65px;
     line-height: 70px;
